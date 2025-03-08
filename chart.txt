@@ -1,0 +1,33 @@
+Key for These Charts
+
+The three main items you want to pay attention to are the SFI (Solar Flux Index), the K-Index and the A-Index.
+SFI - Summarization of the
+Sun's Radiation Output
+
+    70 – Not Good
+    80 – Good
+    90 – Better
+    100+ – Best
+
+A-Index - Daily Average of
+Magnetic Activity
+
+    A = 0 – 7 Quiet
+    A = 8 – 15 Unsettled
+    A = 16 – 29 Active
+    A = 30 – 49 Minor storm
+    A = 50 – 99 Major storm
+    A = 100 – 400 Severe storm
+
+K-Index Updated every 3 Hours
+
+    K = 0 Inactive
+    K = 1 Very quiet
+    K = 2 Quiet
+    K = 3 Unsettled
+    K = 4 Active
+    K = 5 Minor storm
+    K = 6 Major storm
+    K = 7 Severe storm
+    K = 8 Very severe storm
+    K = 9 Extremely severe storm
